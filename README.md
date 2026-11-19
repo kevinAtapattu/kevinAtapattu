@@ -8,8 +8,8 @@
 
 <br /><br />
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=3fb950&bar_color_cover=false" alt="Now playing on Spotify" width="520" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=r6npnda78qucinnb1ezwp796p&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=r6npnda78qucinnb1ezwp796p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Now playing on Spotify" width="520" />
 </a>
 
 </div>
