@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="234" viewBox="0 0 520 234">
+<defs><clipPath id="c0"><rect x="20" y="46" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;16.8;71.2;71.2;0" keyTimes="0;0.0429;0.0430;0.0729;0.97;1"/></rect></clipPath><clipPath id="c1"><rect x="20" y="70" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;0.0;214.0;214.0;0" keyTimes="0;0.0907;0.0908;0.1264;0.97;1"/></rect></clipPath><clipPath id="c2"><rect x="20" y="94" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;16.8;113.2;113.2;0" keyTimes="0;0.1621;0.1622;0.2171;0.97;1"/></rect></clipPath><clipPath id="c3"><rect x="20" y="118" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;0.0;289.6;289.6;0" keyTimes="0;0.2350;0.2351;0.2836;0.97;1"/></rect></clipPath><clipPath id="c4"><rect x="20" y="142" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;16.8;121.60000000000001;121.60000000000001;0" keyTimes="0;0.3193;0.3194;0.3793;0.97;1"/></rect></clipPath><clipPath id="c5"><rect x="20" y="166" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;0.0;264.40000000000003;264.40000000000003;0" keyTimes="0;0.3971;0.3972;0.4414;0.97;1"/></rect></clipPath></defs>
+<rect width="520" height="234" rx="10" fill="#0D1117" stroke="#30363D"/>
+<circle cx="22" cy="20" r="6" fill="#FF5F57"/><circle cx="42" cy="20" r="6" fill="#FEBC2E"/><circle cx="62" cy="20" r="6" fill="#28C840"/>
+<text x="260" y="24" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="middle">kevin@github: ~</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+<text x="20" y="62" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#3FB950">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+<text x="20" y="86" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#8B949E">kevin · cs @ carleton &#x27;27</tspan></text>
+<text x="20" y="110" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#3FB950">$ </tspan><tspan fill="#E6EDF3">cat now.txt</tspan></text>
+<text x="20" y="134" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#8B949E">swe intern @ ibm, portals platform</tspan></text>
+<text x="20" y="158" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#3FB950">$ </tspan><tspan fill="#E6EDF3">ls projects/</tspan></text>
+<text x="20" y="182" clip-path="url(#c5)" xml:space="preserve"><tspan fill="#8B949E">tesla-hub/  copytrade/  musaic/</tspan></text>
+<g opacity="0"><animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.4771;0.4781;0.97;1"/>
+<text x="20" y="206" fill="#3FB950">$</text><rect x="36.8" y="193" width="8" height="16" fill="#3FB950"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+</g></svg>

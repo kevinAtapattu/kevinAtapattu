@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kevinAtapattu/kevinAtapattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/header.svg" alt="Hi, I'm Kevin" width="520" />
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/terminal.svg" alt="$ whoami: kevin, cs @ carleton '27. $ cat now.txt: swe intern @ ibm, portals platform. $ ls projects/: tesla-hub, copytrade, musaic" width="520" />
+
+<br /><br />
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=3fb950&bar_color_cover=false" alt="Now playing on Spotify" width="520" />
+</a>
+
+</div>

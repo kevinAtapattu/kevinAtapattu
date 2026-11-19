@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="80" viewBox="0 0 520 80">
+<text x="232" y="52" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="36" font-weight="600" fill="#8B949E">Hi, I'm Kevin</text>
+<g>
+<animateTransform attributeName="transform" type="rotate" dur="2.4s" repeatCount="indefinite"
+  values="0 388 56;16 388 56;-8 388 56;16 388 56;-4 388 56;0 388 56;0 388 56"
+  keyTimes="0;0.1;0.2;0.3;0.4;0.5;1"
+  calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0 0 1 1"/>
+<text x="368" y="52" font-size="34">👋</text>
+</g>
+</svg>
